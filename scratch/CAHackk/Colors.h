@@ -1,0 +1,28 @@
+#define Red   D3DCOLOR_ARGB(255, 255, 000, 000)
+#define Green    D3DCOLOR_ARGB(255, 127, 255, 000)//
+#define Cyan     D3DCOLOR_ARGB(255, 000, 255, 255)//
+#define Orange    D3DCOLOR_ARGB(255, 255, 140, 000)
+#define Blue     D3DCOLOR_ARGB(255, 000, 000, 255) //
+#define Yellow    D3DCOLOR_ARGB(255, 255, 255,  51)//
+#define Black     D3DCOLOR_ARGB(255, 000, 000, 000)
+#define Grey      D3DCOLOR_ARGB(255, 112, 112, 112)
+#define Gold      D3DCOLOR_ARGB(255, 255, 215, 000)
+#define Pink      D3DCOLOR_ARGB(255, 255, 192, 203)
+#define Purple    D3DCOLOR_ARGB(255, 128, 000, 128)
+#define White     D3DCOLOR_ARGB(255, 255, 255, 249)
+#define Magenta   D3DCOLOR_ARGB(255, 255, 000, 255)
+#define TBlack    D3DCOLOR_ARGB(128, 000, 000, 000)
+#define lTeal     D3DCOLOR_ARGB(39  , 167, 167, 167)
+#define dTeal	  D3DCOLOR_ARGB(39, 18, 212, 225 )
+#define lGray     D3DCOLOR_ARGB(0, 174, 174, 174)
+#define lBlack	  D3DCOLOR_ARGB(75, 40, 44,	45  )
+#define LightYellow D3DCOLOR_ARGB(49, 242, 240, 102)
+#define LightGrey		D3DCOLOR_ARGB(220,  48,  48,  48)
+#define DarkGrey		D3DCOLOR_ARGB(220,  26,  26,  26)
+#define BCGrey			D3DCOLOR_ARGB(90,	65,	 58,  58)
+#define BCBlue			D3DCOLOR_ARGB(85,   2 ,  16,  242)
+#define BCBlue2			D3DCOLOR_ARGB(165,   0,   178,  252)
+#define BCGrey1			D3DCOLOR_ARGB(25, 190, 190, 190)
+#define BCGrey2			D3DCOLOR_ARGB(255, 199, 203, 207)
+#define BCGrey3			D3DCOLOR_ARGB(255, 88, 92, 95)
+#define BCGrey4			D3DCOLOR_ARGB(255, 131, 131, 132)
